@@ -1,3 +1,3 @@
 # hello-world
 Just another responsility
-The first uee github
+The first use github
